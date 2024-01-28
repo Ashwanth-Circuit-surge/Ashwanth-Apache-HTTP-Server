@@ -1,4 +1,4 @@
-![_f6299e03-657c-4907-84fd-fe6d1e1293b6](https://github.com/Ashwanth-Circuit-surge/Ashwanth-Apache-HTTP-Server/assets/157686695/e7ffe4ef-713c-49d4-b226-3719f92dc61d)Ashwanth's Apache HTTP Server Enhanced Edition:
+Ashwanth's Apache HTTP Server Enhanced Edition:
 
 Embark on a transformative journey in web hosting with Ashwanth's Apache HTTP Server. This customized edition is meticulously designed for long-term excellence, introducing a comprehensive set of technical aspects to elevate your web hosting experience:
 
